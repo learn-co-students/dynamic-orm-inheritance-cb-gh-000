@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Explain why it is useful to have an ORM class from which other classes in your program can inherit
-2. Describe the code that is used to construct such a class
+2. Describe the code that is used to construct such a clas
 
 ## Why Inheritance?
 
