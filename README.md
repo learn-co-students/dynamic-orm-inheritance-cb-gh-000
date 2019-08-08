@@ -28,7 +28,7 @@ the methods defined there are abstract––they do not reference explicit class
 attribute names nor do they reference explicit table or column names.
 
 These are methods that can be used by *any Ruby class or instance*, as long as
-we make them available to that class or instance.
+we make them available to that class or instance. sfds
 
 ## The Child Class
 
