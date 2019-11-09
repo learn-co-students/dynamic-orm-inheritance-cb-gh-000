@@ -8,7 +8,7 @@
 
 ## Why Inheritance?
 
-The great thing about a Dynamic ORM is that it provides us with a way to write
+The great thing about a Dynamicd ORM is that it provides us with a way to write
 an ORM that is almost entirely abstract. In other words, the methods we write
 that allow a given Ruby class and instances to communicate with a database are
 *not specific to any one class*.
